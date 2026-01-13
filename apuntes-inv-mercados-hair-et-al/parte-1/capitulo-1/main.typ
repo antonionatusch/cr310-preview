@@ -1,5 +1,5 @@
 #import "imports.typ": *
-#import "../../template/imports.typ": *
+#import "../../../template/imports.typ": *
 #set heading(numbering: "1.1)")
 #set text(lang: "es")
 #set list(indent: 1cm)
@@ -39,7 +39,7 @@
 
 = #lorem(1)
 
-#lorem(50) @hair2010invmercados
+#lorem(30) @hair2010invmercados
 #pagebreak()
 == #lorem(2)
 #pagebreak()
@@ -47,4 +47,4 @@
 
 
 #pagebreak()
-#bibliography("../references/references.bib", style: "apa")
+#bibliography("../../references/references.bib", style: "apa")
