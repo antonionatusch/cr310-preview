@@ -79,5 +79,31 @@ esquemas de servicio a vehículos más eficaces y obtener comentarios directos d
 sobre distintas facetas de los autos.
 #cite(<hair2010invmercados>, supplement: [pg.~3])
 
+== Valor de la información de investigación de mercados
+La información de investigación de mercados es valiosa porque provee mecanismos
+para idear estrategias de promociones e implantar nuevos métodos
+de recolección de datos para entender mejor a los clientes.
+Estas últimas acitivdades son parte del _establecimiento de relaciones_
+y _administración de las relaciones con los clientes,_ conceptos que se verán
+más adelante en el presente capítulo.
+Para maximizar
+el beneficio de la investigación de mercados, se debe contar con un
+sistema lógico basado en aportaciones de los clientes cuyo análisis pueda
+consultarse y aprovecharse. \ En el caso de Autos Saab EUA, utilizaron
+la investigación de mercados para explotar los beneficios pertenecientes
+a los mecanismos que son fruto de la investigación de mercados.
+Se debe entender a la investigación de mercados como un proceso sistemático;
+#cite(<fiveable2024sysproc>, form: "prose") define un proceso sistemático como
+"un enfoque cognitivo donde los individuos deliberada y cuidadosamente
+analizan información, a menudo utilizando razonamiento lógico para evaluar
+argumentos y evidencias".
+
+Las tareas de este proceso comprenden:
+
+- Diseñar métodos para recopilar información
+- Administrar la recolección de la información
+- Analizar e interpretar los resultados para comunicarlos a quienes toman las decisiones
+#cite(<hair2010invmercados>, supplement: [pg.~4])
+
 #pagebreak()
 #bibliography("../../references/references.bib", style: "apa")
