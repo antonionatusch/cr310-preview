@@ -36,19 +36,22 @@
   student_full_name: STUDENT_FULL_NAME,
   student_code: STUDENT_CODE,
 )
+#set page(numbering: "1")
 
-= Conceptos
+= Conceptos <concepts>
 
 Estos conceptos serán anotados en el orden que vayan apareciendo en el libro, típicamente
 estando colocados en la parte izquierda de la página como en la página 2.
 \
 \
-- *Investigación de mercados*: Función que enlaza una organización con su mercado mediante la recopilación de información.
+- *Investigación de mercados*: Función que enlaza una organización con su mercado mediante la recopilación de información. <market-research-definition>
 - *Mercadotecnia*: Planeación y ejecución de las actividades de fijación de precios, \
   promoción y distribución de productos, servicios e ideas para generar intercambios \
-  que satisfagan a la empresa y a sus clientes.
+  que satisfagan a la empresa y a sus clientes.<marketing-definition>
 - *Mercadotecnia de relaciones*: Estrategia de forjar relaciones de largo plazo con \
-  los clientes.
+  los clientes. <relationship-marketing-definition>
+- *Facultamiento*: Capacidad de los empleados de resolver los problemas de inmediato, \
+  sin tener que pedir autorización.<empowerment-definition>
 #pagebreak()
 
 = Investigación de mercado y decisiones generales
@@ -104,6 +107,41 @@ Las tareas de este proceso comprenden:
 - Administrar la recolección de la información
 - Analizar e interpretar los resultados para comunicarlos a quienes toman las decisiones
 #cite(<hair2010invmercados>, supplement: [pg.~4])
+
+#pagebreak()
+=== Mercadotecnia de relaciones y el proceso de la investigación de mercados
+El propósito fundamental de la *mercadotecnia* se puede ver según su
+definición en la @concepts (Conceptos), en la
+#ref(<marketing-definition>, form: "page"). Generar el intercambio
+mencionado en la definición es responsabilidad del gerente de
+mercadotecnia, quien se enfoca de llevar los bienes y servicios
+pertinentes:
+
+#align(center)[
+  #set text(size: 16pt)
+  *1) A las personas correctas* \
+  *2) En el momento y lugar oportunos* \
+  *3) Con el precio justo* \
+  *4) Mediante la combinación atinada de técnicas de promoción* \
+]
+
+Estos esfuerzos deben ir acompañados de una buena investigación de mercados
+para aminorar la incertidumbre que existe en el mercado.
+
+Un método común para alcanzar la prosperidad dentro de las empresas
+consiste en utilizar la mercadotecnia de relaciones. Esta
+mercadotecnia, resumidamente, se basa en proveer valor real al cliente
+por el precio que corresponde al producto o servicio, el cual debe
+satisfacer una necesidad peculiar del cliente.
+
+Existen distintos elementos que permiten el éxito de todo programa
+de mercadotecnia:
+
+- *Conocimiento del mercado:* La compañía debe poseer información
+  relevante de los clientes, para poder cultivar relaciones con
+  ellos. Quienes asumen las responsabilidades de investigación de
+  mercados en la compañía deben asegurar que esto pueda suceder.
+
 
 #pagebreak()
 #bibliography("../../references/references.bib", style: "apa")
