@@ -52,6 +52,13 @@ estando colocados en la parte izquierda de la página como en la página 2.
   los clientes. <relationship-marketing-definition>
 - *Facultamiento*: Capacidad de los empleados de resolver los problemas de inmediato, \
   sin tener que pedir autorización.<empowerment-definition>
+- *Administración de las relaciones con los clientes*: Medio para ejecutar la \
+  la estrategia de mercadotecnia de relaciones. <customer-relationship-management-definition>
+- *Difusión de la información*: Situación en la que todas las áreas funcionales \
+  de la empresa tienen la información que necesitan para mejorar sus decisiones.
+- *Tablero ejecutivo de mandos*: Terminal o pantalla interactiva en la que \
+  se organiza y presenta la información de forma tal que a los ejecutivos \
+  se les facilite leer y mantenerla.
 #pagebreak()
 
 = Investigación de mercado y decisiones generales
@@ -151,6 +158,7 @@ de mercadotecnia:
   mercado en curso. Como ejemplos:
 
 #enum(
+  indent: 2cm,
   [
     *McDonald's, Disney y American Express* tienen universidades
     corporativas que educan a los empleados sobre como tratar a los
@@ -168,6 +176,31 @@ de mercadotecnia:
   soluciones en el acto de los problemas de los clientes.
 
   #cite(<hair2010invmercados>, supplement: [pgs.~4--5])
+
+#pagebreak()
+=== Mercadotecnia de relaciones y administración de las relaciones con los clientes
+Mejor conocido por sus siglas en inglés como *CRM* (_Customer Relationship Management_),
+la administración de las relaciones con los clientes es un medio para ejecutar
+la estrategia de mercadotecnia de relaciones. Se hace uso de la informática
+para procesar los datos de los clientes, con el fin de maximizar la lealtad
+de los mismos y el valor de por vida que representan.
+La CRM se basa en conceptos centrados en el mercado y los consumidores:
+
+- *Conocimiento de los clientes y el mercado:* La CRM se basa en la recopilación
+  y análisis de datos de los clientes, para así entender sus necesidades
+  y comportamientos.
+
+- *Integración de datos:* Se establece un almacén de datos
+  el cual contiene todos los datos condensados y uniformados
+  y se los pone a disposición de todas las áreas funcionales
+  de la compañía para que todos quienes traten con un cliente
+  cuenten con sus antecedentes.
+
+- *Informática:* La informática ha facilitado la integración
+  de datos para realizar informes básicos, extracción de datos,
+  análisis estadístico, entre otros.
+
+
 
 #pagebreak()
 #bibliography("../../references/references.bib", style: "apa")
