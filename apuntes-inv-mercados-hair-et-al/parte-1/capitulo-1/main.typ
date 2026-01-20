@@ -142,6 +142,32 @@ de mercadotecnia:
   ellos. Quienes asumen las responsabilidades de investigación de
   mercados en la compañía deben asegurar que esto pueda suceder.
 
+- *Programas de capacitación eficaces:* Dado que, para muchos
+  consumidores, los empleados ---indistinto de su cargo--- _son_
+  la empresa, se debe realizar un esfuerzo institucional para
+  involucrar a todos los empleados en la mercadotecnia
+  que esté siendo empleada, incluso a aquellos que no
+  necesariamente se involucran en la investigación de
+  mercado en curso. Como ejemplos:
+
+#enum(
+  [
+    *McDonald's, Disney y American Express* tienen universidades
+    corporativas que educan a los empleados sobre como tratar a los
+    clientes y cómo recopilar datos de ellos. \ \
+  ],
+  [
+    Se destaca que *American Express* incentiva a los empleados
+    a hacer caso a los comentarios informales de los clientes,
+    así como hablar sobre la competencia con ellos.
+  ],
+)
+
+- *Facultamiento de los empleados y trabajo en equipo:* Se trata
+  de incentivar a los empleados a ser proactivos, inventando
+  soluciones en el acto de los problemas de los clientes.
+
+  #cite(<hair2010invmercados>, supplement: [pgs.~4--5])
 
 #pagebreak()
 #bibliography("../../references/references.bib", style: "apa")
